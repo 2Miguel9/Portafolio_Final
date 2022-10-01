@@ -11,6 +11,9 @@ const Footer = () => {
       <div className="footer-contact">
         <h3>Contact me</h3>
         <p>And let's get down to work</p>
+        <form>
+          
+        </form>
       </div>
       <div className="footer-sns">
         <div className="design-by">Design By Your Name</div>

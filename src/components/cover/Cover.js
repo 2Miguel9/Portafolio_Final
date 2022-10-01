@@ -8,7 +8,12 @@ const Cover = () => {
       <video className="video" src={coverVideo} autoPlay loop muted />
       <h1>Miguel Angel</h1>
       <p>Desarrolador | Web </p>
+       <div className="botones">
+       <button className="contacto">Contacto</button>
+       <button className="vida">Hoja de Vida</button>
+       </div>
     </div>
+     
   );
 };
 
