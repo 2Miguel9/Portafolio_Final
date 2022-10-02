@@ -68,6 +68,16 @@
   border-color: black !important;
 }
 
+.git{
+  padding: 12px 32px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background: #5BBE6B;
+  color: rgb(245, 232, 232);
+  border: 1px solid #fff;
+  font-weight: 600;
+  cursor: pointer;
+}
 @media only screen and (max-width: 960px) {
   .carousel-container {
     flex-direction: column;

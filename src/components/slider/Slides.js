@@ -1,24 +1,25 @@
 import React from "react";
 import "./Slider.css";
 
+
 const slidesInfo = [
   {
     src:
-      "https://cdn.pixabay.com/photo/2016/12/19/08/39/mobile-phone-1917737_960_720.jpg",
+      "https://images.unsplash.com/photo-1518640467707-6811f4a6ab73?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bWluaW1hbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
     alt: "Project 1",
-    desc: "Project 1",
+    desc: "Proyecto 1",
   },
   {
     src:
-      "https://cdn.pixabay.com/photo/2017/10/31/19/05/web-design-2906159_960_720.jpg",
+      "https://images.unsplash.com/photo-1492321936769-b49830bc1d1e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
     alt: "Project 2",
-    desc: "Project 2",
+    desc: "Proyecto 2",
   },
   {
     src:
-      "https://cdn.pixabay.com/photo/2015/02/05/08/06/macbook-624707_960_720.jpg",
+      "https://images.unsplash.com/photo-1604782206219-3b9576575203?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=397&q=80",
     alt: "Project 3",
-    desc: "Project 3",
+    desc: "Proyecto 3",
   },
 ];
 

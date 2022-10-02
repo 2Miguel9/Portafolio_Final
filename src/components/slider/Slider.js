@@ -8,7 +8,8 @@ const Slider = () => {
   return (
     <div className="carousel-container">
       <div className="carousel-title">
-        <h2>My Projects</h2>
+        <h2>Mis proyectos</h2>
+        <button className="git">Proyectos Git</button>
       </div>
 
       <Carousel
@@ -33,3 +34,4 @@ const Slider = () => {
 };
 
 export default Slider;
+
